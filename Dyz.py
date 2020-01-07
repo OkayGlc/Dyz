@@ -1,8 +1,4 @@
 
-import os
-
-print ("Dyz2 kullanıma hazır")
-
 print ("Ne yapmami istersiniz?")
 
 
