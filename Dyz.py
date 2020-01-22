@@ -5,15 +5,17 @@ while True:
 
 istek = input("&&:")
 
-break
+
 
 if (istek=="hack"):
   
   print ("sucsesful")
 
+break
 
 else :
   
   print ("boyle bir kod yok")
 
  
+break
