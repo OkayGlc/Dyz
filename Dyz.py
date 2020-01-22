@@ -1,11 +1,11 @@
 
 print ("Ne yapmami istersiniz?")
 
-
+while True:
 
 istek = input("&&:")
 
-
+break
 
 if (istek=="hack"):
   
@@ -15,3 +15,5 @@ if (istek=="hack"):
 else :
   
   print ("boyle bir kod yok")
+
+ 
