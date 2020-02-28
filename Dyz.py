@@ -1,21 +1,9 @@
+pasw=input ("Password")
 
-print ("Ne yapmami istersiniz?")
+if (pasw==elliot):
 
-while True:
+print ("hello , elliot")
 
-istek = input("&&:")
+else:
 
-
-
-if (istek=="hack"):
-  
-  print ("sucsesful")
-
-break
-
-else :
-  
-  print ("boyle bir kod yok")
-
- 
-break
+print ("hata")
