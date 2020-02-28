@@ -2,7 +2,7 @@ pasw=input ("Password")
 
 if (pasw==elliot):
 
-print ("hello , elliot")
+print ("hello")
 
 else:
 
